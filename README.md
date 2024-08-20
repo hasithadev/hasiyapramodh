@@ -41,4 +41,5 @@ I'm currently focusing on enhancing my skills in the MERN (MongoDB, Express, Rea
 
 ---
 
-⭐️ From [hasiyapramodh](https://github.com/hasiyapramodh)
+⭐️ From [hasithadev
+](https://github.com/hasithadev)
